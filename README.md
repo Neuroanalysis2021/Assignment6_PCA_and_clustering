@@ -8,4 +8,4 @@ Part 1 - PCA:  https://www.loom.com/share/261166bfd97f4db5bef1947fbcbda622
 Part 2 - Introduction to clustering: https://www.loom.com/share/cd62d8fd923243179cfb6836c473ff62  
 Part 3 - Cell assemblies detection with k-means: https://www.loom.com/share/9cc8b6171e674c72b910326eca7f9336  
 
-The assignment comprises fourteen questions, each worth one point, that you will be able to answer using the code in the notebook. The passing grade is 5 points, 10 points will give the maximum grade.
+The assignment comprises fourteen questions, that you will be able to answer using the code in the notebook. The score will be given as a number from 0 to 10, with 6 as the passing grade.
